@@ -1,4 +1,4 @@
-# Afterburner Toolhead PCB Remix
+# FuelChamber Toolhead PCB
 
 This is a drop-in remix of [hartk's Afterburner Toolhead PCB](https://github.com/hartk1213/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB) v3.1 with the following changes:
 
