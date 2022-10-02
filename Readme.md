@@ -9,7 +9,7 @@ This is a drop-in remix of [hartk's Afterburner Toolhead PCB](https://github.com
 
 Rev A and Rev B have no support for the BAT85 Diode!
 
-![PCB Renders](Images/front.png)
+![PCB Renders](Images/PCB.png)
 ![Photo](Images/Photo.jpg)
 
 # Usage
