@@ -9,7 +9,7 @@ This is a drop-in remix of [hartk's Afterburner Toolhead PCB](https://github.com
 
 Rev A and Rev B have no support for the BAT85 Diode!
 
-![PCB Renders](Images/PCB.png)
+![PCB Renders](Images/front.png)
 ![Photo](Images/Photo.jpg)
 
 # Usage
@@ -23,6 +23,8 @@ Note this PCB is `experimental` because it has yet to be determined if the DC/DC
 constant toolhead movements. Although the VR10S12 did survive for 100 printing hours now, it's unlikely that they fail, but we never know until we try.s
 
 # BOM
+
+## Warning: Outdated!
 
 | Designator           | Footprint       | Value            | Remarks
 |----------------------|-----------------|------------------|--------------
